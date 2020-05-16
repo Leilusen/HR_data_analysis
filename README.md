@@ -4,15 +4,16 @@
 
 In order to run this Jupiter notebook we need following installations:
 
-statsmodels==0.9.0
-seaborn==0.9.0
-pandas==0.24.2
-numpy==1.16.2
-matplotlib==3.0.3
+- statsmodels==0.9.0
+- seaborn==0.9.0
+- pandas==0.24.2
+- numpy==1.16.2
+- matplotlib==3.0.3
 
 <h2>Project motivation</h2>
 
 This project is centered around analyzing HR data from the perspecitve of employee turnover rates.
+
 It includes some advanced data visualizations and could be useful for visualizing other types of data in different contexts.
 
 <h2>Files</h2>
