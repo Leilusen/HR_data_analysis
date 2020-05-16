@@ -18,8 +18,8 @@ It includes some advanced data visualizations and could be useful for visualizin
 
 <h2>Files</h2>
 
-human-resources-data-set.zip - data file that contains HR records
-HR_data.ipynb - Jupyter notebook containing all code used for data analysis
+-nhuman-resources-data-set.zip - data file that contains HR records
+- HR_data.ipynb - Jupyter notebook containing all code used for data analysis
 
 <h2>Data provider</h2>
 
